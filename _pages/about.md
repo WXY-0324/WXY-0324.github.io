@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xuyang Wang (王旭阳)"
+title: "ABOUT ME"
 author_profile: true
 redirect_from: 
   - /about/
